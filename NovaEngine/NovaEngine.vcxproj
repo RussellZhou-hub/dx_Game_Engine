@@ -106,7 +106,7 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Engine\Core\Engine.cpp" />
+    <ClCompile Include="Engine\EngineFactory.cpp" />
     <ClCompile Include="Engine\NovaEngine.cpp" />
     <ClCompile Include="Engine\Platform\WindowsEngine.cpp" />
     <ClCompile Include="simple_library\private\simple_channel\simple_io_stream\simple_io_stream.cpp" />
@@ -180,6 +181,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\Core\Engine.h" />
+    <ClInclude Include="Engine\EngineFactory.h" />
+    <ClInclude Include="Engine\EngineMinimal.h" />
     <ClInclude Include="Engine\Platform\WindowsEngine.h" />
     <ClInclude Include="simple_library\private\simple_channel\simple_net_connetion\simple_connetion_tcp.h" />
     <ClInclude Include="simple_library\private\simple_channel\simple_net_connetion\simple_connetion_udp.h" />

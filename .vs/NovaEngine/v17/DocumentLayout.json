@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SourceCode\\dx_Game_Engine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Core\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\Core\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\Platform\\WindowsEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\Platform\\WindowsEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\EngineFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\EngineFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineMinimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\EngineMinimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\NovaEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF9F51EF-ED00-431B-8C79-841C93D22AED}|NovaEngine\\NovaEngine.vcxproj|solutionrelative:NovaEngine\\Engine\\NovaEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsEngine.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.cpp",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\Platform\\WindowsEngine.cpp",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.cpp",
+              "RelativeToolTip": "NovaEngine\\Engine\\Platform\\WindowsEngine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T10:28:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsEngine.h",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.h",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\Platform\\WindowsEngine.h",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Platform\\WindowsEngine.h",
+              "RelativeToolTip": "NovaEngine\\Engine\\Platform\\WindowsEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T10:26:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EngineFactory.h",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.h",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\EngineFactory.h",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.h",
+              "RelativeToolTip": "NovaEngine\\Engine\\EngineFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T10:23:05.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EngineFactory.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.cpp",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\EngineFactory.cpp",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineFactory.cpp",
+              "RelativeToolTip": "NovaEngine\\Engine\\EngineFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T10:19:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.h",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Core\\Engine.h",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\Core\\Engine.h",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\Core\\Engine.h",
+              "RelativeToolTip": "NovaEngine\\Engine\\Core\\Engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T10:14:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NovaEngine.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\NovaEngine.cpp",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\NovaEngine.cpp",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\NovaEngine.cpp",
+              "RelativeToolTip": "NovaEngine\\Engine\\NovaEngine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T10:09:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EngineMinimal.h",
+              "DocumentMoniker": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineMinimal.h",
+              "RelativeDocumentMoniker": "NovaEngine\\Engine\\EngineMinimal.h",
+              "ToolTip": "D:\\SourceCode\\dx_Game_Engine\\NovaEngine\\Engine\\EngineMinimal.h",
+              "RelativeToolTip": "NovaEngine\\Engine\\EngineMinimal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T10:07:34.247Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
