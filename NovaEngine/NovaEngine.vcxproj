@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Engine\Core\Engine.cpp" />
+    <ClCompile Include="Engine\Core\WinMainCommandParameters.cpp" />
     <ClCompile Include="Engine\EngineFactory.cpp" />
     <ClCompile Include="Engine\NovaEngine.cpp" />
     <ClCompile Include="Engine\Platform\WindowsEngine.cpp" />
@@ -181,6 +182,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\Core\Engine.h" />
+    <ClInclude Include="Engine\Core\WinMainCommandParameters.h" />
     <ClInclude Include="Engine\EngineFactory.h" />
     <ClInclude Include="Engine\EngineMinimal.h" />
     <ClInclude Include="Engine\Platform\WindowsEngine.h" />

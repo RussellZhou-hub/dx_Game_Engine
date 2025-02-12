@@ -8,5 +8,9 @@ FEngineFactory::FEngineFactory()
 
 FEngine* FEngineFactory::CreateEngine()
 {
-	return nullptr;
+#if defined(_WIN32)
+	return new FWindowsEngine();
+#elif defined(__linux__)
+
+#endif // DEBUG
 }
